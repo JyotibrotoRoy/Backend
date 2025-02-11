@@ -15,6 +15,7 @@
   "author": "Jyotibroto Roy",
   "license": "ISC",
   "devDependencies": {
+    "@types/node": "^22.13.1",
     "nodemon": "^3.1.9"
   },
   "dependencies": {
